@@ -1,0 +1,8 @@
+C:\Users\R\source\repos\EventManagementsystem\EventManagementsystem\obj\Debug\net5.0\EventApplicationCore.csproj.AssemblyReference.cache
+C:\Users\R\source\repos\EventManagementsystem\EventManagementsystem\obj\Debug\net5.0\EventApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\source\repos\EventManagementsystem\EventManagementsystem\obj\Debug\net5.0\EventApplicationCore.AssemblyInfoInputs.cache
+C:\Users\R\source\repos\EventManagementsystem\EventManagementsystem\obj\Debug\net5.0\EventApplicationCore.AssemblyInfo.cs
+C:\Users\R\source\repos\EventManagementsystem\EventManagementsystem\obj\Debug\net5.0\EventApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\EventManagementsystem\EventManagementsystem\obj\Debug\net5.0\EventApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\R\source\repos\EventManagementsystem\EventManagementsystem\obj\Debug\net5.0\EventApplicationCore.RazorAssemblyInfo.cache
+C:\Users\R\source\repos\EventManagementsystem\EventManagementsystem\obj\Debug\net5.0\EventApplicationCore.RazorAssemblyInfo.cs
