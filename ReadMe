@@ -1,18 +1,23 @@
-PlanIt Event Management system 
 
 
-• Developed an event management app with ASP.NET Core MVC, reducing manual tasks by 30%
-• Utilized MS SQL Server and Entity Framework, improving data retrieval efficiency by 40%
-• Deployed the application on Microsoft Azure, ensuring 90% uptime and seamless scalability
-• Implemented Logic Apps to automate email interactions, increasing user engagement by 25%
+PlanIt Event Management System
+Overview
+PlanIt is a comprehensive event management application developed using ASP.NET Core MVC. The system is designed to streamline event planning processes, reduce manual tasks, and improve overall efficiency.
+
+Key Features
+Event Management: Simplify the process of organizing and managing events.
+User Engagement: Enhanced interaction with automated email communications.
+Scalability: Seamless scalability with deployment on Microsoft Azure.
+Achievements
+Efficiency Improvement: Reduced manual tasks by 30%, significantly streamlining event management workflows.
+Data Retrieval Optimization: Improved data retrieval efficiency by 40% using MS SQL Server and Entity Framework.
+High Availability: Achieved 90% uptime and ensured seamless scalability through deployment on Microsoft Azure.
+Increased User Engagement: Boosted user engagement by 25% with the implementation of Logic Apps to automate email interactions.
+Technologies Used
+ASP.NET Core MVC: For developing the web application.
+MS SQL Server: For managing and storing data.
+Entity Framework: For efficient data access and management.
+Microsoft Azure: For deployment and scalability.
+Logic Apps: For automating email interactions and enhancing user engagement.
 
 
-# Smart Tourist Scheduler Based on User Interest
-
-1. The purpose of developing this system is to create a schedule for a traveller visiting the city and wanting to explore the city in a stipulated period.
-
-2. The application excels to search the place automatically based on location. It also helps to find the nearby places of interest.
-
-3. The primary goal of the application is to identify main computer needs, to support the improvement of tourist point of promotion for the traveller, by the means of our proposal.
-
-4. we propose a system that can automatically show a sight seeing route and plan in set time.
