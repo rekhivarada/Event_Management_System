@@ -1,4 +1,4 @@
-# PlanIt Event Management System
+# PlanIt: Event Management System
 
 ## Overview
 
