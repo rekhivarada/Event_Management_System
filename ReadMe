@@ -27,13 +27,6 @@ PlanIt is a comprehensive event management application developed using ASP.NET C
 - **Microsoft Azure**: For deployment and scalability.
 - **Logic Apps**: For automating email interactions and enhancing user engagement.
 
-## Getting Started
-
-To get started with PlanIt, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
 
 
 
