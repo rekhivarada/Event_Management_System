@@ -1,10 +1,8 @@
 # PlanIt Event Management System
 
-# PlanIt Event Management System
-
 ## Overview
 
-PlanIt is a comprehensive event management application developed using ASP.NET Core MVC. The system is designed to streamline event planning processes, reduce manual tasks, and improve overall efficiency.
+**PlanIt** is a comprehensive event management application developed using ASP.NET Core MVC. The system is designed to streamline event planning processes, reduce manual tasks, and improve overall efficiency.
 
 ## Key Features
 
@@ -26,7 +24,3 @@ PlanIt is a comprehensive event management application developed using ASP.NET C
 - **Entity Framework**: For efficient data access and management.
 - **Microsoft Azure**: For deployment and scalability.
 - **Logic Apps**: For automating email interactions and enhancing user engagement.
-
-
-
-
